@@ -7,4 +7,4 @@ New Changes added in the example branch which was created.
 
 Adding changes
 
-Changes on local.
+Changes on local and done remotely as well
